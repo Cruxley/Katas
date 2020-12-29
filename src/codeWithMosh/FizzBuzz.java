@@ -1,4 +1,4 @@
-package FizzBuzz;
+package codeWithMosh;
 
 import java.util.Scanner;
 
